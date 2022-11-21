@@ -68,3 +68,10 @@ h1 {
   background-color: #ffe6a7;
   color: #6f1d1b;
 }
+
+.linktotutorial {
+  margin: 50px;
+  color: #6f1d1b;
+  font-size: larger;
+  font-weight: bold;
+}

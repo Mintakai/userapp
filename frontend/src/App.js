@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { Route, Routes, Link } from 'react-router-dom';
 import Main from './pages/Main';
 import Register from './pages/Register';
@@ -8,10 +7,6 @@ import Admin from './pages/Admin';
 import './style/App.css';
 
 const App = () => {
-
-  useEffect(() => {
-    console.log(`frontend: App.js loaded`);
-  }, []);
 
   return (
     <>

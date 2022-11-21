@@ -1,7 +1,7 @@
 const Admin = () => {
     return (
         <div className="header">
-            <h1>[Admin]</h1>
+            <h1>[ADMIN]</h1>
         </div>
     );
 };
